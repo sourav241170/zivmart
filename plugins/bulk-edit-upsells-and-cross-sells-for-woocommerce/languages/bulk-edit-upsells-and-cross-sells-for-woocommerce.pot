@@ -1,0 +1,278 @@
+# Copyright (C) 2024 SaffireTech
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bulk Edit Upsells and Cross-Sells for WooCommerce 2.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bulk-edit-upsells-and-cross-sells-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-02-12T19:54:17+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: bulk-edit-upsells-and-cross-sells-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "Bulk Edit Upsells and Cross-Sells for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "Bulk Edit Upsells and Cross-sells for WooCommerce is a fast and easy way to set or update upsells and cross-sells for products in your WooCommerce catalog."
+msgstr ""
+
+#. Author of the plugin
+msgid "SaffireTech"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.saffiretech.com"
+msgstr ""
+
+#: bulk-edit-upsells-and-cross-sells-for-woocommerce.php:67
+msgid "Bulk Edit Upsells and Cross-Sells for WooCommerce Pro Activated"
+msgstr ""
+
+#: bulk-edit-upsells-and-cross-sells-for-woocommerce.php:154
+msgid "Setting"
+msgstr ""
+
+#: bulk-edit-upsells-and-cross-sells-for-woocommerce.php:155
+msgid "UpGrade to Pro !"
+msgstr ""
+
+#: includes/beucw-functions.php:15
+#: includes/beucw-settings.php:788
+#: includes/beucw-settings.php:999
+msgid "Permission Denied."
+msgstr ""
+
+#: includes/beucw-settings.php:9
+msgid "Upsells & Cross-sells"
+msgstr ""
+
+#: includes/beucw-settings.php:22
+msgid "Bulk Edit UpSells and Cross-sells for WooCommerce"
+msgstr ""
+
+#: includes/beucw-settings.php:35
+#: includes/beucw-settings.php:160
+msgid "Save"
+msgstr ""
+
+#: includes/beucw-settings.php:50
+msgid "Unlock Advanced Features with our PRO plugin"
+msgstr ""
+
+#: includes/beucw-settings.php:58
+msgid "100% Risk-Free Money Back Guarantee!"
+msgstr ""
+
+#: includes/beucw-settings.php:59
+msgid "We guarantee you a complete refund for new purchases or renewals if a request is made within 15 Days of purchase."
+msgstr ""
+
+#: includes/beucw-settings.php:68
+msgid "Advanced Bulk Management"
+msgstr ""
+
+#: includes/beucw-settings.php:68
+msgid "Now set Upsells, Cross-sells and Related products  in go from one single screen in a swift action."
+msgstr ""
+
+#: includes/beucw-settings.php:69
+msgid "Increased Product Limit"
+msgstr ""
+
+#: includes/beucw-settings.php:69
+msgid "Boost your efficiency with the capability to manage 50 products at once, a ten fold increase from the free version."
+msgstr ""
+
+#: includes/beucw-settings.php:70
+msgid "Customizable AJAX Slider"
+msgstr ""
+
+#: includes/beucw-settings.php:70
+msgid "Elevate your Upsells Section with fast-loading, unlimited product displays for smoother customer engagement."
+msgstr ""
+
+#: includes/beucw-settings.php:71
+msgid "Custom Control"
+msgstr ""
+
+#: includes/beucw-settings.php:71
+msgid "Handpick each item in the \"Related Products\" section for tailored product recommendations."
+msgstr ""
+
+#: includes/beucw-settings.php:72
+msgid "Sales Boost"
+msgstr ""
+
+#: includes/beucw-settings.php:72
+msgid "Increase average order value and revenue by displaying more relevant products to customers."
+msgstr ""
+
+#: includes/beucw-settings.php:110
+msgid "Select Filter"
+msgstr ""
+
+#: includes/beucw-settings.php:111
+msgid "Category"
+msgstr ""
+
+#: includes/beucw-settings.php:112
+msgid "Tags"
+msgstr ""
+
+#: includes/beucw-settings.php:113
+msgid "SKU"
+msgstr ""
+
+#: includes/beucw-settings.php:114
+#: includes/beucw-settings.php:816
+#: includes/beucw-settings.php:867
+msgid "Product Name"
+msgstr ""
+
+#: includes/beucw-settings.php:123
+msgid "Search for categories…"
+msgstr ""
+
+#: includes/beucw-settings.php:130
+msgid "Search for tags…"
+msgstr ""
+
+#: includes/beucw-settings.php:137
+msgid "Search for SKU…"
+msgstr ""
+
+#: includes/beucw-settings.php:144
+msgid "Type any product name..."
+msgstr ""
+
+#: includes/beucw-settings.php:159
+msgid "Search"
+msgstr ""
+
+#: includes/beucw-settings.php:734
+#: includes/beucw-settings.php:954
+msgid "Upgrade Now"
+msgstr ""
+
+#: includes/beucw-settings.php:737
+#: includes/beucw-settings.php:957
+msgid "Pro Field Alert!"
+msgstr ""
+
+#: includes/beucw-settings.php:739
+#: includes/beucw-settings.php:959
+msgid "Looking for this cool feature? Go Pro!"
+msgstr ""
+
+#: includes/beucw-settings.php:739
+#: includes/beucw-settings.php:959
+msgid "Go with our premium version to unlock the following features:"
+msgstr ""
+
+#: includes/beucw-settings.php:739
+#: includes/beucw-settings.php:959
+msgid "bulk-edit-upsells-and-cross-sells-for-woocommerceBulk Update  Related Products, Upsells, and Cross-Sells from a single screen."
+msgstr ""
+
+#: includes/beucw-settings.php:739
+#: includes/beucw-settings.php:959
+msgid "Custom Related Products  Shortcode with AJAX Slider."
+msgstr ""
+
+#: includes/beucw-settings.php:739
+#: includes/beucw-settings.php:959
+msgid "Sales Boost: Increase average order value and revenue."
+msgstr ""
+
+#: includes/beucw-settings.php:818
+msgid "UpSells"
+msgstr ""
+
+#: includes/beucw-settings.php:820
+msgid "Please search for your products and set upsells for it in the corressponding box of this column"
+msgstr ""
+
+#: includes/beucw-settings.php:825
+msgid "Cross-Sells"
+msgstr ""
+
+#: includes/beucw-settings.php:827
+msgid "Please search for your products and set cross-sells for it in the corressponding box of this column"
+msgstr ""
+
+#: includes/beucw-settings.php:832
+msgid "Related Products"
+msgstr ""
+
+#: includes/beucw-settings.php:874
+msgid "Upsells"
+msgstr ""
+
+#: includes/beucw-settings.php:875
+#: includes/beucw-settings.php:891
+#: includes/beucw-settings.php:907
+msgid "Search for a product…"
+msgstr ""
+
+#: includes/beucw-settings.php:890
+msgid "Cross-sells"
+msgstr ""
+
+#: includes/beucw-settings.php:953
+msgid "This field is available in related products pro plugin"
+msgstr ""
+
+#: includes/beucw-settings.php:1039
+msgid "Awesome, you've been using"
+msgstr ""
+
+#: includes/beucw-settings.php:1039
+msgid "for more than 1 week"
+msgstr ""
+
+#: includes/beucw-settings.php:1040
+msgid "If you like our plugin would you like to rate our plugin at WordPress.org ?"
+msgstr ""
+
+#: includes/beucw-settings.php:1041
+msgid "Yes, I'd like to rate it!"
+msgstr ""
+
+#: includes/beucw-settings.php:1041
+msgid "I already did!"
+msgstr ""
+
+#: assets/js/beucw-bulk-upsells-crosssells.js:74
+msgid "Please select a filter ( product category, tags, product name or SKU) to search your products."
+msgstr ""
+
+#: assets/js/beucw-bulk-upsells-crosssells.js:93
+msgid "No products found on current on selected search criteria. Please change filter or search for other products."
+msgstr ""
+
+#: assets/js/beucw-bulk-upsells-crosssells.js:146
+msgid "Please input  keywords/ terms for the chosen filter for the products you wish to update"
+msgstr ""
+
+#: assets/js/beucw-bulk-upsells-crosssells.js:167
+msgid "Saving Changes..."
+msgstr ""
+
+#: assets/js/beucw-bulk-upsells-crosssells.js:168
+msgid "This will take a few seconds."
+msgstr ""
+
+#: assets/js/beucw-bulk-upsells-crosssells.js:202
+#: assets/js/beucw-bulk-upsells-crosssells.js:205
+msgid "Products Updated Successfully!"
+msgstr ""
+
+#: assets/js/beucw-bulk-upsells-crosssells.js:215
+msgid "Some Error Occurred"
+msgstr ""

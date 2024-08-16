@@ -1,0 +1,159 @@
+:root{
+    --inext-zero: 0px;
+
+    --inext-color-white: #ffffff;
+    --inext-color-light: #f8f8f8;
+    --inext-color-dark: #333333;
+    --inext-color-green: #50cd89;
+    --inext-color-error: #d9214e;
+    --inext-color-success: #50cd89;
+
+    --inext-shadow-white: 0 0 4px rgba(0, 0, 0, 0.15);
+
+    --inext-border-radius: 4px;
+    --inext-border-radius-lg: 8px;
+
+    --inext-padding: 8px;
+
+    --inext-text-semi-bold: 600;
+
+    --inext-font-poppins: Poppins, Helvetica, sans-serif;
+
+    --inext-font-size: 16px;
+    --inext-font-size-sm: 12px;
+    --inext-font-size-md: 20px;
+    --inext-font-size-lg: 24px;
+}
+@font-face {
+    'font-family': poppins;
+    src: url("../fonts/Poppins/Poppins-Regular.ttf");
+}
+
+.inext_loader_wrapper{
+    /* display: inline-block !important; */
+    /* vertical-align: -.125em !important; */
+    /* margin-left: .5em !important; */
+}
+.inext_loader{
+    width: 0.6rem !important;
+    height: 0.6rem !important;
+    /* vertical-align: -.125em !important; */
+    border: .20em solid var(--inext-color-white) !important;
+    border-right-color: transparent !important;
+    border-radius: 50% !important;
+    /* margin-left: .5em !important; */
+    /* margin: .5em !important; */
+    animation: .75s linear infinite inext_loader !important;
+}
+
+@keyframes inext_loader {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* Product Page */
+#pincheck_wrapper .pincheck_inner{
+    margin: 2rem 0 1rem !important;
+    padding: 10px !important;
+    width: 100% !important;
+    background: var(--inext-color-white) !important;
+    /* background: var(--inext-color-light) !important; */
+    color: var(--inext-color-dark) !important;
+    border-radius: var(--inext-border-radius) !important;
+    /* box-shadow: var(--inext-shadow-white) !important; */
+    font-size: var(--inext-font-size) !important;
+    font-family: var(--inext-font-poppins) !important;
+}
+#pincheck_wrapper .pincheck_inner p.pin_label{
+    color: var(--inext-color-dark) !important;
+	padding-bottom: var(--inext-padding) !important;
+    font-weight: var(--inext-text-semi-bold) !important;
+    margin: 0;
+}
+#pincheck_wrapper .pincheck_inner .form_inline{
+    justify-content: space-around !important;
+    display: flex !important;
+	align-items: center !important;
+	flex-wrap: nowrap !important;
+    padding: var(--inext-padding) !important;
+    background: var(--inext-color-light) !important;
+    border-radius: var(--inext-border-radius-lg) !important;
+    box-shadow: var(--inext-shadow-white) !important;
+}
+#pincheck_wrapper .pincheck_inner .form_inline > *{
+    flex-basis: 100% !important;
+}
+#pincheck_wrapper .pincheck_inner .form_inline .form_input_group{
+    display: flex !important;
+	justify-content: flex-start !important;
+	align-items: center !important;
+	flex-wrap: nowrap !important;
+}
+#pincheck_wrapper .pincheck_inner .form_inline .form_input_group > *{
+    flex-basis: 100% !important;
+}
+#pincheck_wrapper .pincheck_inner .pin_marker{
+	max-width: 24px !important;
+}
+#pincheck_wrapper .pincheck_inner input{
+	background-color: transparent !important;
+	color: inherit !important;
+	padding: var(--inext-zero) var(--inext-padding) !important;
+	border: var(--inext-zero) !important;
+	outline: var(--inext-zero) !important;
+	font-size: var(--inext-font-size) !important;
+	font-weight: var(--inext-text-semi-bold) !important;
+    box-shadow: none !important;
+}
+#pincheck_wrapper .pincheck_inner .button{
+	color: var(--inext-color-white) !important;
+	border-width: var(--inext-zero) !important;
+	outline: var(--inext-zero) !important;
+    border-radius: var(--inext-border-radius-lg) !important;
+	letter-spacing: 1px !important;
+	font-size: var(--inext-font-size) !important;
+	text-transform: uppercase !important;
+	background-color: var(--inext-color-green) !important;
+	padding: 10px 30px !important;
+    max-width: 200px !important;
+    font-family: inherit !important;
+    font-weight: var(--inext-text-semi-bold) !important;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5em;
+}
+#pincheck_wrapper .pincheck_inner .button.disabled{
+    cursor: not-allowed !important;
+    pointer-events: none !important;
+    opacity: 0.5 !important;
+}
+#pincheck_wrapper .pincheck_inner .text_small{
+    font-size: var(--inext-font-size-sm) !important;
+    margin: 0 !important;
+}
+#pincheck_wrapper .pincheck_inner .res.res_error{
+    color: var(--inext-color-error) !important;
+    margin-top: 2px !important;
+}
+#pincheck_wrapper .pincheck_inner .res.res_success{
+    color: var(--inext-color-success) !important;
+    margin-top: 2px !important;
+}
+
+@media (max-width: 600px){
+    #pincheck_wrapper .pincheck_inner .form_inline{
+    	align-items: stretch !important;
+    	flex-direction: column !important;
+    }
+    #pincheck_wrapper .pincheck_inner .form_inline > *:not(:last-child){
+        margin-bottom: 12px !important;
+    }
+    #pincheck_wrapper .pincheck_inner .button{
+    	font-size: var(--inext-font-size) !important;
+    	padding: 10px 40px !important;
+        max-width: none !important;
+    }
+}

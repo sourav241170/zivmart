@@ -1,0 +1,19 @@
+.woolentor-disable-control .elementor-control-input-wrapper{
+    pointer-events: none !important;
+    opacity: 0.4;
+}
+.woolentor-disable-control:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top:0;
+    z-index: 2;
+    opacity: 1;
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+}
+.woolentor-disable-control i.eicon-pro-icon {
+    color: #D73361;
+    font-size: 14px;
+}

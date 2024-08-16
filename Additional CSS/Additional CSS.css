@@ -1,0 +1,105 @@
+.yith-wcwl-add-button{
+	text-align: center;
+}
+
+
+@media (max-width: 850px) {
+	
+	form.cart .button.single_add_to_cart_button {
+position: fixed;
+bottom:0;
+height: 45px;
+width: 100% !important;
+border-radius: 0px;
+border-radius: 0px;
+border-radius: 0px;
+border-radius: 0px;
+margin-bottom:0 !important;
+left: 0;
+z-index: 10;
+background-color: #4CAF50;
+box-shadow: 0px -5px 8px #aaaaaa;
+}
+	
+	
+
+
+.variation{
+	display: none;
+}
+
+.joinchat__button {
+	margin-bottom: 40px;
+}
+
+.dgwt-wcas-search-input{
+	font-family: roboto;
+	font-style: ;
+}
+
+.woocommerce form.checkout_coupon {
+	display:block !important; 
+}
+
+.woocommerce-form-coupon-toggle{
+	display: none;
+}
+
+.codedropz-upload-wrapper{
+  display: inline-block;
+}
+
+.woocommerce-form{
+	display: none;
+}
+
+.site-header{
+	position: sticky;
+	top: 0.1px;
+	z-index: 999;
+}
+
+.woocommerce-checkout-review-order{
+	padding: 10px;
+}
+
+html {
+    height: 100%;
+    overflow: hidden;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 100%;
+}
+
+/*.wbs-content-inner{
+    height: 750px !important;
+	}*/
+	
+.woocommerce .up-sells ul,
+.woocommerce .up-sells h2,
+.woocommerce .up-sells .links{
+    /*margin: 0 auto !important;*/
+    padding: 10px !important;
+    /*border: 1px solid #888;*/
+    width: 90%;
+}
+
+.flatpickr-calendar.animate.open {
+	position:fixed;
+	}
+
+	.select2-dropdown{
+		position:fixed;
+		left: auto !important;
+	}
+
+	.select2-search{
+		display:none;
+	}
+
+

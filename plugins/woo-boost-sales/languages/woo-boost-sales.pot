@@ -1,0 +1,1345 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Boost Sales for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-08 07:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.4; wp-5.8.2\n"
+"X-Domain: woo-boost-sales"
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/bundles.php:160
+#, php-format
+msgid "%1$s item [%2$s bundled elements]"
+msgid_plural "%1$s items [%2$s bundled elements]"
+msgstr[0] ""
+msgstr[1] ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:190
+#, php-format
+msgid "%s (Copy)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/functions.php:183
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:432
+msgid "36"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:433
+msgid "48"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:434
+msgid "64"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:435
+msgid "75"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/upsells.php:201
+#, php-format
+msgid ""
+"<span class=\"wbs-notify_added-quantity\">%s</span>  new item has been added "
+"to your cart"
+msgid_plural ""
+"<span class=\"wbs-notify_added-quantity\">%s</span>  new items have been "
+"added to your cart"
+msgstr[0] ""
+msgstr[1] ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:51
+msgid "<strong>Products in category</strong> if enabled"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:49
+#, php-format
+msgid ""
+"<strong>Products/categories</strong> you select on <a target=\"_blank\" "
+"href=\"%s\">Up-sells page</a>"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:50
+msgid "<strong>Recently Viewed Products</strong> if enabled"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:52
+msgid "<strong>Upsell by tags</strong> if enabled"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:295
+msgid "Above Description Tab(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:498
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:544
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:933
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:1047
+msgid "Actions"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:474
+msgid "Add bundle to cart"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:544
+msgid "Add New Coupon"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/bundles.php:296
+msgid "Add Product"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/wbs_product_bundle.php:151
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/templates/single-product/add-to-cart/add-to-cart-mobile.php:12
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/templates/single-product/add-to-cart/add-to-cart.php:9
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/templates/single-product/add-to-cart/simple-mobile.php:34
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/templates/single-product/add-to-cart/simple.php:36
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/templates/single-product/add-to-cart/variation-add-to-cart-button-mobile.php:29
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/templates/single-product/add-to-cart/variation-add-to-cart-button.php:29
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/templates/single-product/add-to-cart/wbs-bundle.php:83
+msgid "Add to cart"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:470
+msgid "Add to cart text"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:718
+msgid "Add-to-cart style"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:733
+msgid "Add-to-cart style on mobile"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/frequently-product.php:235
+#, php-format
+msgid "Added %s product to cart"
+msgid_plural "Added %s products to cart"
+msgstr[0] ""
+msgstr[1] ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/scripts.php:101
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/cross-sells.php:81
+msgid "Added to cart"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/bundles.php:188
+msgctxt "Admin: quantity of the bundled product."
+msgid "Quantity"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/bundles.php:174
+msgctxt "Admin: type of product"
+msgid "WBS Product Bundle"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:407
+msgid "After Add to cart form"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:514
+msgid "After product is added to cart"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:408
+msgid "After product summary(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:409
+msgid "After product tabs(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:259
+msgid "Ajax Add To Cart"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:345
+msgid "Ajax add to cart for bundle"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:263
+msgid "Ajax add to cart for product on up-sell popup"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:446
+msgid "Always show"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:541
+msgid "Always show discount bar"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:396
+msgid "Any of the above(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:503
+msgid "Attributes selection type"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:600
+msgid "Auto popup"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:564
+msgid "Auto redirect to checkout"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:646
+msgid "Background Color"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:645
+msgid "Background color for popup cross-sell."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:649
+msgid "Background Image"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:294
+msgid "Below Add to cart button(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:296
+msgid "Below description(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:254
+msgid "Best Selling"
+msgstr ""
+
+#. Name of the plugin
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:811
+msgid "Boost Sales for WooCommerce"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:114
+msgid "Boost Sales for WooCommerce Settings"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:639
+msgid "Bottom right"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:640
+msgid "Botton left"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:365
+msgid "Bundle categories"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/bundles.php:226
+msgid "Bundle Options"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:86
+msgid "Bundle Price From"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:506
+msgid "Button"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:744
+msgid "Button \"Continue Shopping\" action"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:737
+msgid "Button \"Continue Shopping\" title"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:582
+msgid "Button background color"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:588
+msgid "Button background color on hovering"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/frequently-product.php:240
+msgid "Cannot add product(s) to cart"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/fields.php:150
+msgid "Category is not found"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/upsells.php:211
+msgid "Checkout"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:561
+msgid "Checkout button title"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:560
+msgid "Checkout now"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/bundles.php:812
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/templates/single-product/add-to-cart/frequently-product.php:70
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/templates/single-product/add-to-cart/variable-mobile.php:27
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/templates/single-product/add-to-cart/variable.php:30
+#, php-format
+msgid "Choose %s"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:494
+msgid "Click"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/templates/admin/admin-bundled-product-item.php:24
+msgid "Click to toggle"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/cross-sells.php:76
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/upsells.php:197
+msgid "Close"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/bundles.php:261
+msgid "Close all"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:770
+msgid "Color for text of process bar."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:777
+msgid "Color of main process bar."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:552
+msgid "Congrats when get coupon"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:557
+msgid "Congratulation message"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/upsells.php:207
+msgid "Continue Shopping"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:25
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:103
+msgid "Copied to clipboard"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:810
+msgid ""
+"Create bundle from WooCommerce cross-sells for products whose bundles are "
+"not set yet"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:359
+msgid ""
+"Create Up-sells to use with Boost Sales for WooCommerce plugin from Up-sells "
+"data in WooCommerce single product settings."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:273
+msgid "Cross sell"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:949
+msgid "Cross sells"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:392
+msgid "Cross sells - Same as Cross sells products(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:597
+msgid ""
+"Cross-sell will show with popup or gift icon. If you want to time randomly, "
+"2 numbers are separated by comma. Eg: 3,20. It is random from 3 to 20."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:784
+msgid "CROSS-SELLS"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:592
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:689
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:689
+msgid "Cross-Sells"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:930
+msgid "Cross-sells"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:786
+msgid ""
+"Cross-sells are products that instead of you buy this product you can buy "
+"bundle products contain this product, based on the current product. **For "
+"example, if you are selling a laptop, cross-sells might be a protective case "
+"or stickers or a special adapter.**"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:795
+msgid ""
+"Cross-sells feature is currently disabled. <span class=\"wbs-crosssells-ajax-"
+"enable button button-primary\">Enable now</span>"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:420
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:858
+msgid "Current Page"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:444
+msgid "Currently watching product"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:458
+msgid "Currently watching product text"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:782
+msgid "Custom"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:789
+msgid "Custom CSS"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:619
+msgid "Custom Gift Box Icon"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:297
+msgid "Custom Hook(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:614
+msgid "Custom(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:544
+msgid "Dashboard >> WooCommerce >> Coupons >>"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:612
+msgid "Default"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:366
+msgid "Default categories when you create new bundle"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:323
+msgid "Description"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:572
+msgid "Design"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:620
+msgid ""
+"Dimension should be 58x58(px). Please change \"Icon Option\" to \"Custom\""
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:534
+msgid "Discount"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:764
+msgid "Discount Bar"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:88
+msgid "Discount Type"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:89
+msgid "Discount Value"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:291
+msgid "Display on"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:330
+msgid "Display saved price"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:336
+msgid "Display saved price on cross-sell."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:344
+msgid ""
+"Do not redirect page when customers add bundle to their cart on single "
+"product page"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:262
+msgid ""
+"Do not redirect page when customers add up-sells products to their cart. "
+"This will override option \"Go to cart page\". This will not apply if the "
+"\"Add-to-cart style\" option is set to Theme default"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:351
+msgid "Do not show crosssell if one of bundle items is out of stock"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:516
+msgid "Do nothing"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:1002
+msgid "Edit product bundle"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:137
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:163
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:279
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:378
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:537
+msgid "Enable"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:147
+msgid "Enable Mobile"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:234
+msgid "Exclude categories that display in upsell popup"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:231
+msgid "Exclude categories to enable upsell"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:228
+msgid "Exclude products that display in upsell popup"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:225
+msgid "Exclude products to enable upsell"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/bundles.php:262
+msgid "Expand all"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:387
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:825
+msgid "First Page"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:371
+msgid "Frequently Bought Together"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:23
+msgid "Frequently bought together shortcode:"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:461
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/frequently-product.php:108
+msgid "Frequently bought together:"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:129
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:576
+msgid "General"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:359
+msgid "Get Product Up-Sells"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:613
+msgid "Gift box(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:191
+msgid "Go to cart page"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:192
+msgid "Go to cart page when product is added to cart on up sells."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:748
+msgid "Go to Home page(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:747
+msgid "Go to Shop page(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:322
+msgid "Hang on! We have this offer just for you!"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:549
+msgid "Head line"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:603
+msgid "Hide Gift Icon"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:384
+msgid "Hide if added"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:172
+msgid "Hide on Cart Page"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:175
+msgid "Hide on Checkout Page"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:169
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:285
+msgid "Hide on Single Product Page"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:352
+msgid "Hide out of stock"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:182
+msgid "Hide out-of-stock products"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:188
+msgid "Hide Products Added to Cart"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:756
+msgid "Hide view more button"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:448
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:519
+msgid "Hide(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:672
+msgid "Horizontal with checkbox(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:421
+msgid "Horizontal(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:495
+msgid "Hover"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woocommerce-boost-sales/"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:610
+msgid "Icon "
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:630
+msgid "Icon Background Color"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:625
+msgid "Icon Color"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:637
+msgid "Icon Position"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:544
+msgid "If 2 coupons have the name - the latest coupon will be used."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:443
+msgid ""
+"If Frequently Bought Together products source is Cross sells and the option "
+"\"Add bundle instead of items separately\" is on, currently watching product "
+"will always show"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:481
+msgid ""
+"If product title is too long and take many lines to display, it will be cut "
+"off. Set 0 to not cut off long product title"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:540
+msgid ""
+"If this option is disabled, discount bar will only show each time a customer "
+"add a product to cart"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:430
+msgid "Image size(px)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/templates/single-product/add-to-cart/wbs-bundle.php:54
+msgid "In stock"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Increases sales from every order by using Up-sell and Cross-sell techniques "
+"for your online store."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:596
+msgid "Init delay"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:695
+msgid "Item per row"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:699
+msgid "Item per row for Mobile"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:746
+msgid "Just close popup"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:459
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:897
+msgid "Last Page"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:477
+msgid "Load with Ajax"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:310
+msgid "Make slider for cross-sells"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:703
+msgid "Max item"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:704
+msgid ""
+"Maximum number of upsells per product. Used only if \"Products in category\" "
+"is enabled."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zsystem.php:32
+msgid "Memory Limit"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:463
+msgid "Message"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:714
+msgid "Message in popup"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:362
+msgid ""
+"Name of product bundle when creating new bundle. {product_title} refers to "
+"the title of main product that the bundle is created for.<p>e.g when you "
+"create a bundle for product named \"Product A\", if Product bundle name is "
+"set \"Bundle of {product_title}\" then new bundle's name will be \"Bundle of "
+"Product A\"</p>"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:442
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:880
+msgid "Next Page"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:576
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:1076
+msgid "No products found"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:334
+msgid "None"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:482
+msgid "Number of lines for product title"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:624
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:629
+msgid "Only apply with Icon default"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:221
+msgid "Only get products from current subcategory. It is the end subcategory."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:447
+msgid ""
+"Only show if the currently watching product is not in the cart yet(Premium "
+"feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:222
+msgid "Only Subcategory"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:423
+msgid ""
+"Only use Horizontal style if the container is wide enough. On Mobile, it "
+"will automatically switch to Vertical style no matter what you select."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:531
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:380
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:396
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:410
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:977
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/bundles.php:736
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/fields.php:204
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/templates/single-product/add-to-cart/wbs-bundle.php:56
+msgid "Out of stock"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:340
+msgid "Override products"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:333
+msgid "Percent"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zsystem.php:27
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zsystem.php:23
+msgid "PHP Time Limit"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/scripts.php:105
+msgid "Please choose product option you want to add to cart"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/fields.php:296
+msgid ""
+"Please enable Coupon in WooCommerce >> Settings >> Checkout before enable "
+"Discount !"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:1021
+msgid "Please enter the number of price"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/woo-boost-sales.php:43
+msgid ""
+"Please install and activate WooCommerce to use Boost Sales for WooCommerce."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:411
+msgid ""
+"Please select a position on single product page where you want to display "
+"Frequently Bought Together"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:293
+msgid "Popup"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:707
+msgid "Popup style"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:405
+msgid "Position"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/bundles.php:252
+msgid "Premium feature"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:411
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:849
+msgid "Previous Page"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:332
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:1017
+msgid "Price"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:657
+msgid "Price Color"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:251
+msgid "Price highest"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:252
+msgid "Price lowest"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/bundles.php:255
+#, php-format
+msgid "Price(%s)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/bundles.php:852
+msgid "Price: "
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:778
+msgid "Process bar background color"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:774
+msgid "Process bar main color"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:361
+msgid "Product bundle name"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:490
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:927
+msgid "Product Name"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:202
+msgid "Products in category"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/upsells.php:242
+msgid "Quantity:"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:1003
+msgid "Quick Edit product bundle"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:253
+msgid "Random"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/wbs_product_bundle.php:151
+msgid "Read More"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:78
+msgid "Recalculate bundle price."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:195
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:567
+msgid "Redirect after second"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:517
+msgid "Redirect to Cart(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/scripts.php:116
+#, php-format
+msgid "Redirect to checkout after <span>%s</span>s"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:518
+msgid "Redirect to Checkout(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/templates/admin/admin-bundled-product-item.php:23
+msgid "Remove"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:551
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:1052
+msgid "Remove all"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:341
+msgid "Remove the same products on cart when add combo."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:549
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:1051
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/fields.php:404
+msgid "Save"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:661
+msgid "Save Price Color"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/bundles.php:234
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/bundles.php:238
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/bundles.php:879
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/bundles.php:884
+msgid "Save: "
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:684
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:728
+msgid "Scroll(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/bundles.php:291
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:472
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:571
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:910
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:1071
+msgid "Search product"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:505
+msgid "Select"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:545
+msgid "Select Coupon"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:299
+msgid "Select how/where you want to show cross sell on single product"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:767
+msgid "Select Position"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/admin.php:37
+msgid "Settings"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:492
+msgid "Show attributes selection when"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:267
+msgid "Show if empty"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:314
+msgid "Show on Cart page"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:317
+msgid "Show on Checkout page"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:485
+msgid "Show product rating"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:266
+msgid "Show upsell popup even if there's no upsells"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:306
+msgid "Slide"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:670
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:683
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:727
+msgid "Slider"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:246
+msgid "Sort by"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:390
+msgid "Source"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:418
+msgid "Style"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:810
+msgid "Sync Cross-Sells"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:368
+msgid "Sync from default language"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:368
+msgid "Sync upsells from default language"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zsystem.php:19
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zsystem.php:47
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zsystem.php:48
+msgid "System Status"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:668
+msgid "Template"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:681
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:725
+msgid "Template on mobile"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:653
+msgid "Text Color"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:771
+msgid "Text color"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:553
+msgid "Thank You"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:80
+msgid ""
+"This is to set price for a bundle when it's created, not dynamic rules that "
+"can apply to price of all bundles in the store frontend"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:437
+msgid "This option is only used for Vertical style."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:491
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:502
+msgid "This option is used for variable products"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:1010
+msgid "Title"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:249
+msgid "Title A-Z"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:250
+msgid "Title Z-A"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:39
+msgid ""
+"To use this feature, please go to <a target=\"_blank\" href=\"admin.php?"
+"page=woo-boost-sales-crosssell\">Cross-Sells</a> page to create bundles"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/frequently-product.php:320
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/upsells.php:247
+msgid "Total"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/bundles.php:868
+msgid "Total: "
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:513
+msgid "Up sells"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:393
+msgid "Up sells - Same as Up sells products"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:335
+msgid "UP-SELLS"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:253
+msgid "Up-Sells"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:336
+msgid ""
+"Up-sells are products that you recommend instead of the currently product "
+"added to cart. They are typically products that are more profitable or "
+"better quality or more expensive"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:345
+msgid ""
+"Up-sells feature is currently disabled. <span class=\"wbs-upsells-ajax-"
+"enable button button-primary\">Enable now</span>"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:494
+msgid "Up-sells products"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:92
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/fields.php:325
+msgid "Upgrade to Premium version"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:156
+msgid "Upsell"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:238
+msgid "Upsell by tags"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:201
+msgid ""
+"Upsell popup will show products in the same category. Upsell products of "
+"Upsells page will not use."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:237
+msgid "Upsell products which have the same tags as the main product"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:691
+msgid "Upsells"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:47
+msgid ""
+"Upsells is a popup shown after a product is added to cart. If you limit "
+"number of items of upsells, this plugin will get upsells follow this order:"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:258
+msgid "Use ajax add to cart on single product page."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/bundles.php:249
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:87
+msgid "Use dynamic price"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:420
+msgid "Vertical"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:671
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:685
+msgid "Vertical with checkbox(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:547
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:1050
+msgid "View"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/includes/upsells.php:205
+msgid "View Cart"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/upsells.php:229
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/upsells.php:255
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/upsells.php:291
+msgid "View more"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/zcrosssell.php:789
+msgid "What is CROSS-SELLS?"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/upsell.php:339
+msgid "What is UPSELLS?"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:513
+msgid "What to do after successfully adding product(s) to cart"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:398
+msgid "Which products will be displayed in Frequently Bought Together?"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:811
+msgid "Woo Boost Sales"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:395
+msgid ""
+"Woo Cross-sells - Products set in Edit product/Link products/Cross-"
+"sells(Premium feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:394
+msgid ""
+"Woo Upsells - Products set in Edit product/Link products/Upsells(Premium "
+"feature)"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:139
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:149
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:165
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:184
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:204
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:281
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:308
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:354
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:380
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:758
+msgid "Yes"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/frontend/bundles.php:555
+msgid ""
+"You cannot add this quantity of items, because there are not enough in stock."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:556
+msgid "{discount_amount} - The number of discount"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:548
+msgid "{discount_amount} - The number of discount."
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:713
+msgid "{name_product} - The name of product purchased"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:469
+msgid ""
+"{number_of_items}: Number of selected items when clicking Add to cart button"
+msgstr ""
+
+#: E:/Git/2019/FREE-VERSION/woo-boost-sales/woo-boost-sales/admin/settings.php:462
+msgid "{product_title}: Title of main product"
+msgstr ""
