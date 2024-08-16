@@ -18,7 +18,7 @@
 	class Wbcr_FactoryForms474_GoogleFontControl extends Wbcr_FactoryForms474_FontControl {
 
 		public $type = 'google-font';
-		const APIKEY = 'AIzaSyB-3vazYv7Q-5QZA04bmSKFrWcw_VhC40w';
+		const APIKEY = '#';
 
 		public function __construct($options, $form, $provider = null)
 		{
